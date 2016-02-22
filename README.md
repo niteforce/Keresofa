@@ -9,4 +9,5 @@ Ugyanaz az elem kétszer nem szerepelhet a fában.
 
 
 Felhasznált forrás: https://reiteristvan.wordpress.com/2012/10/17/c-programozas-lepesrol-lepesre-letoltheto/
+
 További olvasmány: http://tamop412.elte.hu/tananyagok/algoritmusok/lecke12_lap1.html
